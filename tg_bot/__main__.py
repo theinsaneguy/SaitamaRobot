@@ -22,7 +22,8 @@ I am an Anime themed group management bot.
 To add me to your group click ["HERE"](t.me/SherryRobot?startgroup=botstart)
 You can find my list of available commands with /help.
 
-[Saitama's Repo](github.com/AnimeKaizoku/SaitamaRobot) 
+I am maintained by this [Legend](t.me/The_White_Guy)
+[Sherry's Repo](github.com/Theinsaneguy/SherryRobot) 
 See [Basic Configuration Checklist](https://t.me/SherryRobotNews/11) on how to secure your group.
 The support group chat is at {}.
 """
